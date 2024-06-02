@@ -1,10 +1,9 @@
 Recognising Image Manipulations Utilising CNN and ELA
 
 Team Details :
+
 Karlapudi Harshitha
-
 Nalladimmu Keerthi Reddy
-
 Sindhu Sri Bandreddy
 
 INTRODUCTION
